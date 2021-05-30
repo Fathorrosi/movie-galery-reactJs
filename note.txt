@@ -1,0 +1,15 @@
+Framework => React JS
+
+External libraries =>
+  - axios
+  - redux
+  - redux-thunk
+  - react-infinite-scroll-component
+  - @syncfusion/ej2-react-calendars
+
+API =>
+   - Popularity : https://api.themoviedb.org/3/discover/movie?sort_by=vote_count.desc&api_key=1cf50e6248dc270629e802686245c2c8&page=1
+   - search : https://api.themoviedb.org/3/search/movie?api_key=1cf50e6248dc270629e802686245c2c8&query=batman&page=1
+
+Start App => npm start (cmd)
+   
